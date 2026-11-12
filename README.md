@@ -62,4 +62,4 @@ python scripts/export_markdown.py --dir notes/ --out merged.md
 
 ## 版本
 
-`0.1.0` · 作者 `research-lab` · 模型无关（DeepSeek / GPT 系列）
+`0.1.0` · 作者 wumingzhidi · 模型无关（适用DeepSeek / GPT 系列等）
